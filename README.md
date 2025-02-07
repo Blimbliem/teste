@@ -1,4 +1,9 @@
-# teste
-isso é um teste, é um repositório de teste de autenticações.
+# teste autenticações git
 
-realizando autenticação via token de acesso pessoal.
+# é um repositório de teste de autenticações.
+
+1º Teste - Realizado autenticação nome e senha
+
+2º Teste - Realizando autenticação via token de acesso pessoal.    
+
+3º Teste - Realizando autenticação com SSH
